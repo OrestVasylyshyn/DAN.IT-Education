@@ -1,0 +1,78 @@
+.container {
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-img {
+    width: 100%;
+    background-image: url("../img/landing.png");
+    background-repeat: no-repeat;
+}
+
+.menu {
+    font-family: Roboto, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 32px;
+    padding-bottom: 35px;
+}
+
+.menu-item {
+    color: #16a085;
+    font-size: 18px;
+    font-weight: 900;
+    text-decoration: none;
+    padding: 0px 50px 0px 50px;
+}
+
+.intro {
+    font-family: Roboto, sans-serif;
+    color: #373737;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.13em;
+    background-color: #f5f6f7;
+}
+
+.title {
+    font-size: 22px;
+    text-transform: uppercase;
+    padding-top: 56px;
+}
+
+.intro-description {
+    width: 1060px;
+    margin: 34px auto 0px auto;
+}
+
+.intro-description p {
+    line-height: 26px;
+    margin-top: 34px;
+    margin-bottom: 0px;
+}
+
+.start-button {
+    font-family: GothamRounded, sans-serif;
+    margin-top: 41px;
+    margin-bottom: 94px;
+    width: 192px;
+    height: 51px;
+    background-color: #16a085;
+    color: #ffffff;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.footer {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    letter-spacing: 0.13em;
+    text-align: right;
+    padding: 45px 104px 45px 10px;
+}
